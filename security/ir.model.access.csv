@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_dlc__suite_dlc__suite,dlc__suite.dlc__suite,model_dlc__suite_dlc__suite,,1,0,0,0
